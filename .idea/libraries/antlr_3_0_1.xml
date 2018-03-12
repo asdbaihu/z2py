@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="antlr-3.0.1">
+    <CLASSES>
+      <root url="jar://E:/SpringWorkSpace/bddy/WebContent/WEB-INF/lib/antlr-3.0.1.jar!/" />
+      <root url="jar://E:/SpringWorkSpace/bddy/WebContent/WEB-INF/lib/antlr-runtime-3.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

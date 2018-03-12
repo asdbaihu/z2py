@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bddy:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/bddy_war</output-path>
+    <root id="archive" name="bddy_war.war">
+      <element id="artifact" artifact-name="bddy:war exploded" />
+    </root>
+  </artifact>
+</component>

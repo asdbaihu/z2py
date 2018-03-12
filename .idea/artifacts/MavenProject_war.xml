@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MavenProject:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="z2py.war">
+      <element id="artifact" artifact-name="MavenProject:war exploded" />
+    </root>
+  </artifact>
+</component>

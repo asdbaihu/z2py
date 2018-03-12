@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<taglib xmlns="http://java.sun.com/xml/ns/j2ee"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-jsptaglibrary_2_0.xsd"
+  version="2.0">
+
+  <description>MY Util 1.1 functions library</description>
+  <display-name>MY Util functions</display-name>
+  <tlib-version>1.1</tlib-version>
+  <short-name>mfn</short-name>
+  <uri>http://www.inspuruptec.com/jsp/jstl/util</uri>
+
+  <function>
+    <description>
+      FormatUtil.getTimeFormatText
+    </description>
+    <name>getTimeFormatText</name>
+    <function-class>com.z2py.util.FormatUtil</function-class>
+    <function-signature>java.lang.String getTimeFormatText(java.util.Date)</function-signature>
+    <example>
+    </example>
+  </function>
+  
+  <function>
+    <description>
+      FormatUtil.urlEncode
+    </description>
+    <name>urlEncode</name>
+    <function-class>com.z2py.util.FormatUtil</function-class>
+    <function-signature>java.lang.String urlEncode(java.lang.String)</function-signature>
+    <example>
+    </example>
+  </function>
+  
+  <function>
+    <description>
+      FormatUtil.addFilter
+    </description>
+    <name>addFilter</name>
+    <function-class>com.z2py.util.FormatUtil</function-class>
+    <function-signature>java.lang.String addFilter(java.lang.String, java.lang.String, java.lang.String)</function-signature>
+    <example>
+    </example>
+  </function>
+  
+  <function>
+    <description>
+      FormatUtil.removeFilter
+    </description>
+    <name>removeFilter</name>
+    <function-class>com.z2py.util.FormatUtil</function-class>
+    <function-signature>java.lang.String removeFilter(java.lang.String, java.lang.String)</function-signature>
+    <example>
+    </example>
+  </function>
+</taglib>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="z2py:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="z2py.war">
+      <element id="artifact" artifact-name="z2py:war exploded" />
+    </root>
+  </artifact>
+</component>

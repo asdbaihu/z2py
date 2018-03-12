@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="dm.config" name="dm Configuration for 'MavenProject'">
+    <output-path>$PROJECT_DIR$/out/artifacts/dm_Configuration_for__MavenProject_</output-path>
+    <root id="root">
+      <element id="packaging-for-dm-config" module="MavenProject" />
+    </root>
+  </artifact>
+</component>

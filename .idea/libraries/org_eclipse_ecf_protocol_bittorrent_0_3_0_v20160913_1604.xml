@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.eclipse.ecf.protocol.bittorrent_0.3.0.v20160913-1604">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/lib/org.eclipse.ecf.protocol.bittorrent_0.3.0.v20160913-1604.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

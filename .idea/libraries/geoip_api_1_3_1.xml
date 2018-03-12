@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="geoip-api-1.3.1">
+    <CLASSES>
+      <root url="jar://E:/SpringWorkSpace/bddy/WebContent/WEB-INF/lib/geoip-api-1.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
