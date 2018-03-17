@@ -33,6 +33,7 @@ public class WebSpider {
 	private Timer timer;
 
 	public boolean start() {
+		//BUG addHeader("Cookie", cookies) 只对初始添加的 url 有效，爬取过程中抓取到的 url 只能通过 addCookie 添加。
 		if (spider == null || spider.getThreadAlive() == 0 || spider.getStatus() == Status.Stopped) {
 			spider = OOSpider.create(Site.me()
 					.setDomain("pianyuan.net")
